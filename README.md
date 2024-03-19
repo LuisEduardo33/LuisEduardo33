@@ -1,4 +1,4 @@
-### Olá, Eu sou Luis Eduardo👋
+### Olá, Meu nome é Luis Eduardo👋
 
 
 ![LuisEduardo33's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisEduardo33&show_icons=true&theme=dark&locale=pt-br)
