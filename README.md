@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardo33&layout=compact)](https://github.com/LuisEduardo33/github-readme-stats&locale=pt-br)
 
 
-### Tecnologias 👨🏻‍💻
+### Tecnologias que estou aprendendo. 👨🏻‍💻
 
 <div style="display: inline_blox"><br/>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
