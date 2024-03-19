@@ -2,4 +2,5 @@
 
 - 🌱 Eu estou estudando HTML-CSS
 - 😄 Pronouns: Ele/dele
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LuisEduardo33=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github-readme-stats.vercel.app/api?username=LuisEduardo33)](https://github.com/anuraghazra/github-readme-stats
