@@ -1,6 +1,9 @@
 ### Olá, Eu sou Luis Eduardo👋
 
-![LuisEduardo33's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisEduardo33&show_icons=true&theme=dark&locale=pt-br)
+<div>
+    ![LuisEduardo33's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisEduardo33&show_icons=true&theme=dark&locale=pt-br)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardo33&layout=compact)](https://github.com/LuisEduardo33/github-readme-stats&locale=pt-br)
+</div>
 
 ### Tecnologias 👨🏻‍💻
 
