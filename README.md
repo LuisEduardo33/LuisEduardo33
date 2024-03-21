@@ -2,7 +2,7 @@
 
 
 ![LuisEduardo33's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisEduardo33&show_icons=true&theme=dark&locale=pt-br)
-https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardo33&theme=dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardo33&theme=blue-green
 
 
 ### Tecnologias que estou aprendendo. 👨🏻‍💻
