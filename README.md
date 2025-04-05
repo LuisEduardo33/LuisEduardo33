@@ -41,6 +41,3 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 
 ---
-
-_Feito com muito café e curiosidade!_
-
